@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=600&color=00C9FF&center=true&vCenter=true&width=700&height=45&lines=B.Sc.+Computer+Science;HCCDA-AI+%7C+NVIDIA+DL+%7C+ITI+%7C+NTI;Building+Intelligence+for+a+Safer+World" alt="Typing lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=600&color=00C9FF&center=true&vCenter=true&width=700&height=45&lines=Bachelor+in+Artificial+Intelligence;HCCDA-AI+%7C+NVIDIA+DL+%7C+ITI+%7C+NTI;Building+Intelligence+for+a+Safer+World" alt="Typing lines" />
 </div>
 
 <br/>
@@ -31,7 +31,7 @@
 
 ## About
 
-Computer Science graduate specializing in Artificial Intelligence with expertise in Deep Learning, NLP, and Computer Vision. Experienced in building intelligent systems across EdTech, FinTech, and Cybersecurity domains. Completed AI in Cybersecurity training at NTI with a focus on SOC operations, threat detection, and AI-driven security solutions.
+Artificial Intelligence graduate specializing in Intelligence with expertise in Deep Learning, NLP, and Computer Vision. Experienced in building intelligent systems across EdTech, FinTech, and Cybersecurity domains. Completed AI in Cybersecurity training at NTI with a focus on SOC operations, threat detection, and AI-driven security solutions.
 
 ---
 
@@ -109,7 +109,7 @@ Computer Science graduate specializing in Artificial Intelligence with expertise
     <td width="50%" valign="top">
       <h3>Face Recognition System</h3>
       <p><i>CNN -- Graduation Project</i></p>
-      <p>Custom CNN architecture for face recognition achieving 84% accuracy. Developed as B.Sc. graduation project at Arab Open University.</p>
+      <p>Custom CNN architecture for face recognition achieving 84% accuracy. Developed as graduation project at Arab Open University.</p>
       <p>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
