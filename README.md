@@ -7,16 +7,16 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=600&color=00C9FF&center=true&vCenter=true&width=680&height=50&lines=B.Sc.+Computer+Science+-+Arab+Open+University;HCCDA-AI+%7C+NVIDIA+DL+%7C+ITI+%7C+NTI;Building+Intelligence+for+a+Safer+World" alt="Typing lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=600&color=00C9FF&center=true&vCenter=true&width=700&height=45&lines=B.Sc.+Computer+Science;HCCDA-AI+%7C+NVIDIA+DL+%7C+ITI+%7C+NTI;Building+Intelligence+for+a+Safer+World" alt="Typing lines" />
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="mailto:yoyo.azmy22@gmail.com"><img src="https://img.shields.io/badge/yoyo.azmy22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://linkedin.com/in/yousra-azmy"><img src="https://img.shields.io/badge/linkedin.com/in/yousra--azmy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+  <a href="mailto:yoyo.azmy22@gmail.com"><img src="https://img.shields.io/badge/Gmail-yoyo.azmy22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://linkedin.com/in/yousra-azmy"><img src="https://img.shields.io/badge/LinkedIn-yousra--azmy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Download-Resume-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 <p align="center">
@@ -31,127 +31,104 @@
 
 ## About
 
-Computer Science graduate specializing in Artificial Intelligence, with expertise in Deep Learning, NLP, and Computer Vision. Hands-on experience developing intelligent systems including an AI-powered Quiz App, a Telegram trading bot, a CNN-based face recognition system, and a Phishing Link Detection model. Completed AI in Cybersecurity training at the National Telecommunication Institute (NTI), applying AI in SOC operations, threat detection, and log analysis.
+Computer Science graduate specializing in Artificial Intelligence with expertise in Deep Learning, NLP, and Computer Vision. Experienced in building intelligent systems across EdTech, FinTech, and Cybersecurity domains. Completed AI in Cybersecurity training at NTI with a focus on SOC operations, threat detection, and AI-driven security solutions.
 
 ---
 
-## Technical Skills
+## Skills
 
-<table>
-  <tr>
-    <td align="center" width="12%"><b>Python</b></td>
-    <td align="center" width="12%"><b>TensorFlow</b></td>
-    <td align="center" width="12%"><b>PyTorch</b></td>
-    <td align="center" width="12%"><b>Keras</b></td>
-    <td align="center" width="12%"><b>OpenCV</b></td>
-    <td align="center" width="12%"><b>YOLOv8</b></td>
-    <td align="center" width="12%"><b>HuggingFace</b></td>
-    <td align="center" width="12%"><b>LangChain</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
-    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="12%"><b>Scikit-Learn</b></td>
-    <td align="center" width="12%"><b>NumPy</b></td>
-    <td align="center" width="12%"><b>Pandas</b></td>
-    <td align="center" width="12%"><b>Matplotlib</b></td>
-    <td align="center" width="12%"><b>FastAPI</b></td>
-    <td align="center" width="12%"><b>Docker</b></td>
-    <td align="center" width="12%"><b>Flutter</b></td>
-    <td align="center" width="12%"><b>Firebase</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="16%"><b>Splunk</b></td>
-    <td align="center" width="16%"><b>Wireshark</b></td>
-    <td align="center" width="16%"><b>Nessus</b></td>
-    <td align="center" width="16%"><b>Power BI</b></td>
-    <td align="center" width="16%"><b>PostgreSQL</b></td>
-    <td align="center" width="16%"><b>Linux</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117" />
+</p>
 
 ---
 
 ## Projects
 
-### Dawamy App
-*Shift Scheduling App -- Flutter + Node.js*
-
-A modern shift scheduling application with 3D UI design, glassmorphism, physics-based animations, and AI-powered optimization. Built for the Egyptian market with full RTL/Arabic support.
-
-```
-Tech: Flutter | Dart | Node.js | PostgreSQL | Riverpod
-```
-
----
-
-### AI Quiz App
-*Educational Platform -- Flutter + AI*
-
-An intelligent quiz platform connecting professors and students. Professors upload lecture slides which are automatically converted to structured JSON, then AI generates MCQ questions. Students access quizzes via QR codes, receive instant feedback, and get personalized recommendations through an AI chatbot that explains mistakes and links to relevant slide sections.
-
-```
-Tech: Flutter | Firebase | Python | AI/ML | QR Code | Recommendation System
-```
-
-### Telegram Trading Bot
-*Real-time Trading Notifications*
-
-A trading bot that sends real-time Telegram notifications for trade openings and closings with calculated profit/loss per trade. Packaged as a standalone EXE with planned migration to MQL5 Expert Advisor.
-
-```
-Tech: Python | Telegram API | MQL5 (planned)
-```
-
-### Face Recognition System
-*CNN-based -- Graduation Project*
-
-Custom CNN architecture achieving 84% accuracy for face recognition. Developed as the graduation project at Arab Open University.
-
-```
-Tech: TensorFlow | OpenCV | CNN
-```
-
-### Phishing Link Detection
-*CNN + BiLSTM -- URL Classification*
-
-Hybrid deep learning model combining CNN and BiLSTM architectures for classifying URLs as phishing or legitimate. Developed during the NTI AI in Cybersecurity program.
-
-```
-Tech: TensorFlow | BiLSTM | Cybersecurity
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Dawamy App</h3>
+      <p><i>Shift Scheduling -- Flutter + Node.js</i></p>
+      <p>Modern shift scheduling app with 3D UI, glassmorphism design, physics animations, and AI-powered optimization. RTL/Arabic support for the Egyptian market.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
+      </p>
+      <p><a href="https://github.com/yoyoazmy22-del/dawamy_app">View on GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Quiz App</h3>
+      <p><i>Educational Platform -- Flutter + AI</i></p>
+      <p>Platform for professors to upload slides, auto-generate MCQ questions via AI, and distribute quizzes via QR codes. Includes chatbot explanations and personalized recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Telegram Trading Bot</h3>
+      <p><i>Trading Notifications -- Python + Telegram API</i></p>
+      <p>Real-time trading alerts via Telegram with automated P&L calculations per trade. Packaged as standalone EXE with planned MQL5 EA migration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Face Recognition System</h3>
+      <p><i>CNN -- Graduation Project</i></p>
+      <p>Custom CNN architecture for face recognition achieving 84% accuracy. Developed as B.Sc. graduation project at Arab Open University.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Phishing Link Detection</h3>
+      <p><i>CNN + BiLSTM -- Cybersecurity</i></p>
+      <p>Hybrid CNN-BiLSTM model for URL-based phishing classification. Developed at NTI AI in Cybersecurity program.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
@@ -167,13 +144,13 @@ Tech: TensorFlow | BiLSTM | Cybersecurity
 </p>
 
 <p align="center">
-  <b>Digital Egypt Youth Program -- AI in Cybersecurity | Score: 88% | 540 Hours</b><br/>
-  <sub>Ministry of Communications and Information Technology -- NTI</sub>
+  <b>Digital Egypt Youth Program -- AI in Cybersecurity</b><br/>
+  Score: 88% | 540 Hours | Ministry of Communications and IT -- NTI
 </p>
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoyoazmy22-del&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9&border_radius=8" width="49%" />
