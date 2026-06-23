@@ -1,342 +1,193 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=fff&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20-%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=0D1117&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20-%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
-    <img alt="Yousra Mostafa Azmy header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=fff&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20-%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=280&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=50&fontColor=fff&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer&descAlignY=52&descAlign=50&animation=twinkling">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:00C9FF,100:92FE9D&height=280&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=50&fontColor=0D1117&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer&descAlignY=52&descAlign=50&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=280&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=50&fontColor=fff&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer&descAlignY=52&descAlign=50&animation=twinkling">
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=500&color=00C9FF&center=true&vCenter=true&random=false&width=700&height=55&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;AI+in+Cybersecurity+%7C+SOC+%7C+Threat+Detection;HCCDA-AI+Certified+-+NTI+Graduate;Building+Intelligence+for+a+Safer+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=600&color=00C9FF&center=true&vCenter=true&width=680&height=50&lines=B.Sc.+Computer+Science+-+Arab+Open+University;HCCDA-AI+%7C+NVIDIA+DL+%7C+ITI+%7C+NTI;Building+Intelligence+for+a+Safer+World" alt="Typing lines" />
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/yoyoazmy22-del?tab=followers">
-    <img src="https://img.shields.io/github/followers/yoyoazmy22-del?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00C9FF&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/yoyoazmy22-del">
-    <img src="https://img.shields.io/github/stars/yoyoazmy22-del?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=92FE9D&labelColor=0D1117" />
-  </a>
-  <a href="mailto:yoyo.azmy22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://linkedin.com/in/yousra-azmy">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Resume-Download-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yoyoazmy22-del&style=for-the-badge&color=00C9FF&labelColor=0D1117&label=Profile+Views" />
+  <a href="mailto:yoyo.azmy22@gmail.com"><img src="https://img.shields.io/badge/yoyo.azmy22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://linkedin.com/in/yousra-azmy"><img src="https://img.shields.io/badge/linkedin.com/in/yousra--azmy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Download-Resume-FF6F00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HCCDA--AI-Certified-FFD21E?style=flat-square&logo=huawei&logoColor=red&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NVIDIA-Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ITI-AI%20Professional-FF6F00?style=flat-square&logo=udemy&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NTI-AI%20in%20Cybersecurity-4285F4?style=flat-square&logo=security&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Digital%20Egypt-88%25-00C9FF?style=flat-square&logo=google&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/yoyoazmy22-del?style=flat-square&logo=github&label=Followers&color=00C9FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/yoyoazmy22-del?style=flat-square&logo=github&label=Stars&color=92FE9D&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=yoyoazmy22-del&style=flat-square&color=00C9FF&labelColor=0D1117&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/HCCDA--AI-Certified-FFD21E?style=flat-square&logo=huawei&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Digital%20Egypt-88%25-00C9FF?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
 
-## Neural Core / About Me
+## About
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Yousra Mostafa Azmy -- AI & Cybersecurity Engineer
-
-from dataclasses import dataclass, field
-from typing import List
-
-@dataclass
-class AIEngineer:
-    name: str = "Yousra Mostafa Azmy"
-    aka: str = "yoyoazmy22-del"
-    role: str = "AI & Machine Learning Engineer"
-    focus: str = "AI in Cybersecurity"
-    location: str = "Egypt"
-    email: str = "yoyo.azmy22@gmail.com"
-    languages: List[str] = field(default_factory=lambda: ["ar_EG (Native)", "en_US (Fluent)"])
-    
-    @property
-    def education(self) -> str:
-        return "B.Sc. Computer Science -- Arab Open University (2021-2025)"
-    
-    @property
-    def mission(self) -> str:
-        return "Combining AI and Cybersecurity to deliver innovative, real-world solutions"
-    
-    @property
-    def certifications(self) -> List[str]:
-        return [
-            "Huawei HCCDA-AI Developer Certification",
-            "NVIDIA Fundamentals of Deep Learning",
-            "ITI Artificial Intelligence Professional",
-            "NTI AI in Cybersecurity (88% - 540 hrs)",
-        ]
-    
-    @property
-    def interests(self) -> List[str]:
-        return [
-            "Deep Learning & Neural Networks",
-            "Computer Vision & Image Processing",
-            "NLP & Large Language Models",
-            "AI for Cybersecurity & Threat Detection",
-            "MLOps & Model Deployment",
-            "AI for Social Good"
-        ]
-
-me = AIEngineer()
-print(f"{me.name} | {me.role}")
-print(f"Location: {me.location}")
-print(f"Education: {me.education}")
-print(f"Mission: {me.mission}")
-print("Certifications:")
-for cert in me.certifications:
-    print(f"  - {cert}")
-print("Interests:")
-for interest in me.interests:
-    print(f"  - {interest}")
-```
+Computer Science graduate specializing in Artificial Intelligence, with expertise in Deep Learning, NLP, and Computer Vision. Hands-on experience developing intelligent systems including an AI-powered Quiz App, a Telegram trading bot, a CNN-based face recognition system, and a Phishing Link Detection model. Completed AI in Cybersecurity training at the National Telecommunication Institute (NTI), applying AI in SOC operations, threat detection, and log analysis.
 
 ---
 
-## Technical Arsenal
+## Technical Skills
 
-<details open>
-<summary><b>AI & Deep Learning</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" />
-</p>
-</details>
-
-<details>
-<summary><b>Cybersecurity & SOC</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Security%20Onion-00BFFF?style=for-the-badge&logo=security&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Nessus-00B294?style=for-the-badge&logo=tenable&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Malware%20Analysis-FF0000?style=for-the-badge&logo=virus&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-FF6F00?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Log%20Analysis-8B5CF6?style=for-the-badge&logo=file&logoColor=white&labelColor=0D1117" />
-</p>
-</details>
-
-<details>
-<summary><b>Data Science & Analytics</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
-</p>
-</details>
-
-<details>
-<summary><b>MLOps & Tools</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117" />
-</p>
-</details>
-
-<br/>
-
----
-
-## Featured Projects
-
-<table align="center">
+<table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <h3>AI Quiz App</h3>
-      <p><i>Educational Platform -- Flutter + AI</i></p>
-      <ul align="left">
-        <li>Student & professor authentication</li>
-        <li>Slide upload & auto-conversion to JSON</li>
-        <li>AI-generated MCQ questions from slides</li>
-        <li>QR Code-based quiz distribution</li>
-        <li>Real-time answer analytics</li>
-        <li>Similarity matching for error slides</li>
-        <li>AI Chatbot for wrong answer explanations</li>
-        <li>Personalized recommendation system</li>
-        <li>Firebase + custom backend</li>
-      </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <h3>Telegram Trading Bot</h3>
-      <p><i>Real-time Trading Notifications</i></p>
-      <ul align="left">
-        <li>Real-time trade open/close alerts via Telegram</li>
-        <li>P&L calculation per trade</li>
-        <li>Standalone EXE executable</li>
-        <li>Planned MQL5 Expert Advisor upgrade</li>
-      </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-      <img src="https://img.shields.io/badge/API-FF6F00?style=flat-square&logo=fastapi&logoColor=white" />
-      <br/><br/><br/><br/><br/><br/>
-    </td>
+    <td align="center" width="12%"><b>Python</b></td>
+    <td align="center" width="12%"><b>TensorFlow</b></td>
+    <td align="center" width="12%"><b>PyTorch</b></td>
+    <td align="center" width="12%"><b>Keras</b></td>
+    <td align="center" width="12%"><b>OpenCV</b></td>
+    <td align="center" width="12%"><b>YOLOv8</b></td>
+    <td align="center" width="12%"><b>HuggingFace</b></td>
+    <td align="center" width="12%"><b>LangChain</b></td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <h3>Face Recognition System</h3>
-      <p><i>CNN-based -- 84% accuracy</i></p>
-      <ul align="left">
-        <li>Graduation project -- Arab Open University</li>
-        <li>Custom CNN architecture</li>
-        <li>84% accuracy on test set</li>
-      </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/CNN-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <h3>Phishing Link Detection</h3>
-      <p><i>CNN + BiLSTM -- URL Classification</i></p>
-      <ul align="left">
-        <li>Hybrid CNN + BiLSTM architecture</li>
-        <li>URL-based phishing vs legitimate detection</li>
-        <li>Developed at NTI AI in Cybersecurity program</li>
-      </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/BiLSTM-8A2BE2?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cyber-FF0000?style=flat-square&logo=security&logoColor=white" />
-    </td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
+    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="12%"><b>Scikit-Learn</b></td>
+    <td align="center" width="12%"><b>NumPy</b></td>
+    <td align="center" width="12%"><b>Pandas</b></td>
+    <td align="center" width="12%"><b>Matplotlib</b></td>
+    <td align="center" width="12%"><b>FastAPI</b></td>
+    <td align="center" width="12%"><b>Docker</b></td>
+    <td align="center" width="12%"><b>Flutter</b></td>
+    <td align="center" width="12%"><b>Firebase</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="16%"><b>Splunk</b></td>
+    <td align="center" width="16%"><b>Wireshark</b></td>
+    <td align="center" width="16%"><b>Nessus</b></td>
+    <td align="center" width="16%"><b>Power BI</b></td>
+    <td align="center" width="16%"><b>PostgreSQL</b></td>
+    <td align="center" width="16%"><b>Linux</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/></td>
   </tr>
 </table>
 
 ---
 
-## GitHub Analytics
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoyoazmy22-del&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9&custom_title=GitHub+Analytics&rank_icon=github&border_radius=10" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoazmy22-del&layout=pie&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_radius=10&custom_title=Languages+Distribution" width="40%" />
-</p>
+### AI Quiz App
+*Educational Platform -- Flutter + AI*
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoyoazmy22-del&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=92FE9D&fire=00C9FF&currStreakLabel=92FE9D&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=10" width="65%" alt="GitHub Streak" />
-</p>
+An intelligent quiz platform connecting professors and students. Professors upload lecture slides which are automatically converted to structured JSON, then AI generates MCQ questions. Students access quizzes via QR codes, receive instant feedback, and get personalized recommendations through an AI chatbot that explains mistakes and links to relevant slide sections.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyoazmy22-del&bg_color=0D1117&color=00C9FF&line=92FE9D&point=00C9FF&area=true&hide_border=true&radius=10&custom_title=Contribution+Graph&title_color=00C9FF" width="98%" />
-</p>
+```
+Tech: Flutter | Firebase | Python | AI/ML | QR Code | Recommendation System
+```
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoyoazmy22-del/yoyoazmy22-del/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoyoazmy22-del/yoyoazmy22-del/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yoyoazmy22-del/yoyoazmy22-del/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
-</p>
+### Telegram Trading Bot
+*Real-time Trading Notifications*
+
+A trading bot that sends real-time Telegram notifications for trade openings and closings with calculated profit/loss per trade. Packaged as a standalone EXE with planned migration to MQL5 Expert Advisor.
+
+```
+Tech: Python | Telegram API | MQL5 (planned)
+```
+
+### Face Recognition System
+*CNN-based -- Graduation Project*
+
+Custom CNN architecture achieving 84% accuracy for face recognition. Developed as the graduation project at Arab Open University.
+
+```
+Tech: TensorFlow | OpenCV | CNN
+```
+
+### Phishing Link Detection
+*CNN + BiLSTM -- URL Classification*
+
+Hybrid deep learning model combining CNN and BiLSTM architectures for classifying URLs as phishing or legitimate. Developed during the NTI AI in Cybersecurity program.
+
+```
+Tech: TensorFlow | BiLSTM | Cybersecurity
+```
 
 ---
 
-## Certifications & Achievements
+## Certifications
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yoyoazmy22-del&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8&title=Stars,Commits,Followers,PullRequest,Issues,Reviews,Repositories,MultipleLang" />
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-HCCDA--AI-FF0000?style=for-the-badge&logo=huawei&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20DL-76B900?style=for-the-badge&logo=nvidia&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ITI-AI%20Professional-FF6F00?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NTI-AI%20in%20Cybersecurity-4285F4?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Kaggle-Computer%20Vision-20BEFF?style=for-the-badge&logo=kaggle&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Kaggle-Intro%20to%20DL-20BEFF?style=for-the-badge&logo=kaggle&labelColor=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yoyoazmy22-del&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_radius=10" width="60%" />
-</p>
-
-### Certification Showcase
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-HCCDA--AI-FF0000?style=for-the-badge&logo=huawei&logoColor=red&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20DL-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ITI-AI%20Professional-FF6F00?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NTI-AI%20in%20Cybersecurity-4285F4?style=for-the-badge&logo=security&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Kaggle-Computer%20Vision-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Kaggle-Intro%20to%20DL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
-</p>
-
-<p align="center">
-  <b>Digital Egypt Youth Program -- AI in Cybersecurity | Score: 88% | 540 Training Hours</b>
-  <br/>
+  <b>Digital Egypt Youth Program -- AI in Cybersecurity | Score: 88% | 540 Hours</b><br/>
   <sub>Ministry of Communications and Information Technology -- NTI</sub>
 </p>
 
 ---
 
-## Let's Connect & Collaborate
+## GitHub
 
 <p align="center">
-  <a href="https://github.com/yoyoazmy22-del">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://linkedin.com/in/yousra-azmy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="mailto:yoyo.azmy22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yoyoazmy22-del&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9&border_radius=8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoazmy22-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_radius=8" width="49%" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoyoazmy22-del&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=92FE9D&fire=00C9FF&currStreakLabel=92FE9D" width="70%" />
+</p>
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Open%20Source-red?style=flat-square&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Huawei%20Cloud-Developer-red?style=flat-square&logo=huawei&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Powered%20By-Curiosity-00C9FF?style=flat-square&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Quote-%22Innovation+distinguishes+between+a+leader+and+a+follower%22-blue?style=flat-square&labelColor=0D1117" />
-  </p>
-  <sub><b>Yousra Mostafa Azmy</b> - AI & Cybersecurity Engineer - Building the Future</sub>
-  <br/>
-  <sub>From Egypt - Combining AI & Security for a safer tomorrow</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyoazmy22-del&bg_color=0D1117&color=00C9FF&line=92FE9D&point=00C9FF&area=true&hide_border=true&radius=8" width="98%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>yoyoazmy22-del / Yousra Mostafa Azmy -- AI & Cybersecurity Engineer</sub><br/>
+  <sub>From Egypt -- Combining AI & Security for a Safer World</sub>
+</p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=150&section=footer&fontSize=28&text=AI+%2B+Cybersecurity+for+a+Safer+World&fontColor=00C9FF&fontAlignY=65">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:FFFFFF&height=150&section=footer&fontSize=28&text=AI+%2B+Cybersecurity+for+a+Safer+World&fontColor=0D1117&fontAlignY=65">
-    <img alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=150&section=footer&fontSize=28&text=AI+%2B+Cybersecurity+for+a+Safer+World&fontColor=00C9FF&fontAlignY=65">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:FFFFFF&height=120&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=120&section=footer">
   </picture>
 </div>
