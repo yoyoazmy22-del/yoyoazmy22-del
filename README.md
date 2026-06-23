@@ -44,15 +44,15 @@
 
 ---
 
-## âڑ، Neural Core / About Me
+## Neural Core / About Me
 
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Yousra Mostafa Azmy â€” AI & Cybersecurity Engineer
+# Yousra Mostafa Azmy -- AI & Cybersecurity Engineer
 
 from dataclasses import dataclass, field
-from typing import List, Dict
+from typing import List
 
 @dataclass
 class AIEngineer:
@@ -60,68 +60,57 @@ class AIEngineer:
     aka: str = "yoyoazmy22-del"
     role: str = "AI & Machine Learning Engineer"
     focus: str = "AI in Cybersecurity"
-    location: str = "Egypt ًں‡ھًں‡¬"
+    location: str = "Egypt"
     email: str = "yousra.azmyy@gmail.com"
     languages: List[str] = field(default_factory=lambda: ["ar_EG (Native)", "en_US (Fluent)"])
     
     @property
     def education(self) -> str:
-        return "B.Sc. Computer Science â€” Arab Open University (2021â€“2025)"
+        return "B.Sc. Computer Science -- Arab Open University (2021-2025)"
     
     @property
     def mission(self) -> str:
         return "Combining AI and Cybersecurity to deliver innovative, real-world solutions"
     
     @property
-    def current_focus(self) -> str:
-        return "Building production-ready AI systems with a focus on security"
-    
-    @property
     def certifications(self) -> List[str]:
         return [
-            "ًںڈ… Huawei HCCDA-AI Developer Certification",
-            "ًںڈ… NVIDIA Fundamentals of Deep Learning",
-            "ًںڈ… ITI Artificial Intelligence Professional",
-            "ًںڈ… NTI AI in Cybersecurity (88% â€” 540 hrs)",
+            "Huawei HCCDA-AI Developer Certification",
+            "NVIDIA Fundamentals of Deep Learning",
+            "ITI Artificial Intelligence Professional",
+            "NTI AI in Cybersecurity (88% - 540 hrs)",
         ]
     
     @property
     def interests(self) -> List[str]:
         return [
-            "ًں§  Deep Learning & Neural Networks",
-            "ًں‘پï¸ڈ Computer Vision & Image Processing",
-            "ًں“‌ NLP & Large Language Models",
-            "ًں”¬ AI for Cybersecurity & Threat Detection",
-            "âڑ، MLOps & Model Deployment",
-            "ًںŒچ AI for Social Good"
+            "Deep Learning & Neural Networks",
+            "Computer Vision & Image Processing",
+            "NLP & Large Language Models",
+            "AI for Cybersecurity & Threat Detection",
+            "MLOps & Model Deployment",
+            "AI for Social Good"
         ]
-    
-    def status(self) -> str:
-        return "ًںڑ€ Building the next generation of intelligent, secure systems"
-    
-    def connect(self) -> str:
-        return "ًں“¬ Open to collaborations â€” let's innovate together!"
 
 me = AIEngineer()
 print(f"{me.name} | {me.role}")
-print(f"ًں“چ {me.location}")
-print(f"ًںژ“ {me.education}")
-print(f"ًںژ¯ {me.current_focus}")
-print(f"ًں’، {me.mission}")
-print(f"\nًںڈ† Certifications:")
+print(f"Location: {me.location}")
+print(f"Education: {me.education}")
+print(f"Mission: {me.mission}")
+print("Certifications:")
 for cert in me.certifications:
-    print(f"  {cert}")
-print(f"\nًں”¬ Interests:")
+    print(f"  - {cert}")
+print("Interests:")
 for interest in me.interests:
-    print(f"  {interest}")
+    print(f"  - {interest}")
 ```
 
 ---
 
-## ًں§  Technical Arsenal
+## Technical Arsenal
 
 <details open>
-<summary><b>ًں¤– AI & Deep Learning</b></summary>
+<summary><b>AI & Deep Learning</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
@@ -137,7 +126,7 @@ for interest in me.interests:
 </details>
 
 <details>
-<summary><b>ًں”گ Cybersecurity & SOC</b></summary>
+<summary><b>Cybersecurity & SOC</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0D1117" />
@@ -151,7 +140,7 @@ for interest in me.interests:
 </details>
 
 <details>
-<summary><b>ًں“ٹ Data Science & Analytics</b></summary>
+<summary><b>Data Science & Analytics</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
@@ -163,7 +152,7 @@ for interest in me.interests:
 </details>
 
 <details>
-<summary><b>âڑ™ï¸ڈ MLOps & Tools</b></summary>
+<summary><b>MLOps & Tools</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
@@ -180,14 +169,14 @@ for interest in me.interests:
 
 ---
 
-## ًںڑ€ Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <h3>ًںژ“ AI Quiz App</h3>
-      <p><i>Educational Platform â€” Flutter + AI</i></p>
+      <h3>AI Quiz App</h3>
+      <p><i>Educational Platform -- Flutter + AI</i></p>
       <ul align="left">
         <li>Student & professor authentication</li>
         <li>Slide upload & auto-conversion to JSON</li>
@@ -207,7 +196,7 @@ for interest in me.interests:
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <h3>ًں¤– Telegram Trading Bot</h3>
+      <h3>Telegram Trading Bot</h3>
       <p><i>Real-time Trading Notifications</i></p>
       <ul align="left">
         <li>Real-time trade open/close alerts via Telegram</li>
@@ -225,10 +214,10 @@ for interest in me.interests:
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <h3>ًں‘پï¸ڈ Face Recognition System</h3>
-      <p><i>CNN-based â€” 84% accuracy</i></p>
+      <h3>Face Recognition System</h3>
+      <p><i>CNN-based -- 84% accuracy</i></p>
       <ul align="left">
-        <li>Graduation project â€” Arab Open University</li>
+        <li>Graduation project -- Arab Open University</li>
         <li>Custom CNN architecture</li>
         <li>84% accuracy on test set</li>
       </ul>
@@ -239,8 +228,8 @@ for interest in me.interests:
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <h3>ًں”— Phishing Link Detection</h3>
-      <p><i>CNN + BiLSTM â€” URL Classification</i></p>
+      <h3>Phishing Link Detection</h3>
+      <p><i>CNN + BiLSTM -- URL Classification</i></p>
       <ul align="left">
         <li>Hybrid CNN + BiLSTM architecture</li>
         <li>URL-based phishing vs legitimate detection</li>
@@ -256,40 +245,11 @@ for interest in me.interests:
 
 ---
 
-## ًںڈ† Certifications & Achievements
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yoyoazmy22-del&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8&title=Stars,Commits,Followers,PullRequest,Issues,Reviews,Repositories,MultipleLang" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yoyoazmy22-del&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_radius=10" width="60%" />
-</p>
-
-### ًں“œ Certification Showcase
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-HCCDA--AI-FF0000?style=for-the-badge&logo=huawei&logoColor=red&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20DL-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ITI-AI%20Professional-FF6F00?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NTI-AI%20in%20Cybersecurity-4285F4?style=for-the-badge&logo=security&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Kaggle-Computer%20Vision-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Kaggle-Intro%20to%20DL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
-</p>
-
-<p align="center">
-  <b>ًںژ“ Digital Egypt Youth Program â€” AI in Cybersecurity | Score: 88% | 540 Training Hours</b>
-  <br/>
-  <sub>Ministry of Communications and Information Technology â€” NTI</sub>
-</p>
-
----
-
-## ًں”¥ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoyoazmy22-del&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9&custom_title=%F0%9F%93%8A+GitHub+Analytics&rank_icon=github&border_radius=10" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoazmy22-del&layout=pie&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_radius=10&custom_title=%F0%9F%94%AD+Languages+Distribution" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoyoazmy22-del&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9&custom_title=GitHub+Analytics&rank_icon=github&border_radius=10" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoazmy22-del&layout=pie&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_radius=10&custom_title=Languages+Distribution" width="40%" />
 </p>
 
 <p align="center">
@@ -297,7 +257,7 @@ for interest in me.interests:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyoazmy22-del&bg_color=0D1117&color=00C9FF&line=92FE9D&point=00C9FF&area=true&hide_border=true&radius=10&custom_title=%F0%9F%93%88+Contribution+Graph&title_color=00C9FF" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyoazmy22-del&bg_color=0D1117&color=00C9FF&line=92FE9D&point=00C9FF&area=true&hide_border=true&radius=10&custom_title=Contribution+Graph&title_color=00C9FF" width="98%" />
 </p>
 
 <p align="center">
@@ -310,7 +270,36 @@ for interest in me.interests:
 
 ---
 
-## ًںژ¯ Current Mission
+## Certifications & Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yoyoazmy22-del&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8&title=Stars,Commits,Followers,PullRequest,Issues,Reviews,Repositories,MultipleLang" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=yoyoazmy22-del&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_radius=10" width="60%" />
+</p>
+
+### Certification Showcase
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-HCCDA--AI-FF0000?style=for-the-badge&logo=huawei&logoColor=red&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20DL-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ITI-AI%20Professional-FF6F00?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/NTI-AI%20in%20Cybersecurity-4285F4?style=for-the-badge&logo=security&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Kaggle-Computer%20Vision-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Kaggle-Intro%20to%20DL-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <b>Digital Egypt Youth Program -- AI in Cybersecurity | Score: 88% | 540 Training Hours</b>
+  <br/>
+  <sub>Ministry of Communications and Information Technology -- NTI</sub>
+</p>
+
+---
+
+## Current Mission
 
 ```ascii
 â•”â•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•—
@@ -322,19 +311,19 @@ for interest in me.interests:
 â•‘      â–ˆâ–ˆâ•‘   â•ڑâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•‌â•ڑâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•‌â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘      â•‘
 â•‘      â•ڑâ•گâ•‌    â•ڑâ•گâ•گâ•گâ•گâ•گâ•‌  â•ڑâ•گâ•گâ•گâ•گâ•گâ•‌ â•ڑâ•گâ•گâ•گâ•گâ•گâ•گâ•‌â•ڑâ•گâ•‌  â•ڑâ•گâ•‌â•ڑâ•گâ•‌  â•ڑâ•گâ•‌      â•‘
 â•‘                                                              â•‘
-â•‘   ًںژ“ B.Sc. Computer Science â€” Arab Open University          â•‘
-â•‘   ًںڈ… Huawei HCCDA-AI | NVIDIA DL | ITI AI | NTI Cyber       â•‘
-â•‘   ًںڑ€ Building AI systems that are intelligent AND secure     â•‘
-â•‘   ًں¤‌ Open to collaborations & exciting opportunities        â•‘
-â•‘   ًں“– Currently: Deep Learning + Cybersecurity Intersection  â•‘
-â•‘   ًںژ¯ 2026 Goal: Publish AI research & open-source tools     â•‘
+â•‘   B.Sc. Computer Science -- Arab Open University            â•‘
+â•‘   Huawei HCCDA-AI | NVIDIA DL | ITI AI | NTI Cyber         â•‘
+â•‘   Building AI systems that are intelligent AND secure       â•‘
+â•‘   Open to collaborations & exciting opportunities           â•‘
+â•‘   Currently: Deep Learning + Cybersecurity Intersection    â•‘
+â•‘   2026 Goal: Publish AI research & open-source tools       â•‘
 â•‘                                                              â•‘
 â•ڑâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•‌
 ```
 
 ---
 
-## ًںŒگ Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://github.com/yoyoazmy22-del">
@@ -360,20 +349,18 @@ for interest in me.interests:
   <p>
     <img src="https://img.shields.io/badge/Open%20Source-â‌¤ï¸ڈ-red?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Huawei%20Cloud-Developer-red?style=flat-square&logo=huawei&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Powered%20By-Curiosity%20âڑ،-00C9FF?style=flat-square&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Powered%20By-Curiosity-00C9FF?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Quote-%22Innovation+distinguishes+between+a+leader+and+a+follower%22-blue?style=flat-square&labelColor=0D1117" />
   </p>
-  <sub><b>Yousra Mostafa Azmy</b> â€¢ AI & Cybersecurity Engineer â€¢ Building the Future</sub>
+  <sub><b>Yousra Mostafa Azmy</b> - AI & Cybersecurity Engineer - Building the Future</sub>
   <br/>
-  <sub>â­گ From Egypt, with â‌¤ï¸ڈ â€” Combining AI & Security for a safer tomorrow</sub>
-  <br/><br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="60%" />
+  <sub>From Egypt - Combining AI & Security for a safer tomorrow</sub>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=150&section=footer&fontSize=28&text=%E2%80%9CAI+%2B+Cybersecurity+for+a+Safer+World%E2%80%9D&fontColor=00C9FF&fontAlignY=65">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:FFFFFF&height=150&section=footer&fontSize=28&text=%E2%80%9CAI+%2B+Cybersecurity+for+a+Safer+World%E2%80%9D&fontColor=0D1117&fontAlignY=65">
-    <img alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=150&section=footer&fontSize=28&text=%E2%80%9CAI+%2B+Cybersecurity+for+a+Safer+World%E2%80%9D&fontColor=00C9FF&fontAlignY=65">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=150&section=footer&fontSize=28&text=AI+%2B+Cybersecurity+for+a+Safer+World&fontColor=00C9FF&fontAlignY=65">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:FFFFFF&height=150&section=footer&fontSize=28&text=AI+%2B+Cybersecurity+for+a+Safer+World&fontColor=0D1117&fontAlignY=65">
+    <img alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=150&section=footer&fontSize=28&text=AI+%2B+Cybersecurity+for+a+Safer+World&fontColor=00C9FF&fontAlignY=65">
   </picture>
 </div>
