@@ -106,6 +106,17 @@ Computer Science graduate specializing in Artificial Intelligence, with expertis
 
 ## Projects
 
+### Dawamy App
+*Shift Scheduling App -- Flutter + Node.js*
+
+A modern shift scheduling application with 3D UI design, glassmorphism, physics-based animations, and AI-powered optimization. Built for the Egyptian market with full RTL/Arabic support.
+
+```
+Tech: Flutter | Dart | Node.js | PostgreSQL | Riverpod
+```
+
+---
+
 ### AI Quiz App
 *Educational Platform -- Flutter + AI*
 
