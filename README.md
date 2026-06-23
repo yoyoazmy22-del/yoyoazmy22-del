@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=fff&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20â€¢%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=0D1117&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20â€¢%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
-    <img alt="Yousra Mostafa Azmy header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=fff&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20â€¢%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=fff&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20-%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=0D1117&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20-%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
+    <img alt="Yousra Mostafa Azmy header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=250&section=header&text=Yousra%20Mostafa%20Azmy&fontSize=55&fontColor=fff&fontAlignY=28&desc=AI%20%26%20Cybersecurity%20Engineer%20-%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50&animation=twinkling">
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=500&color=00C9FF&center=true&vCenter=true&random=false&width=700&height=55&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;AI+in+Cybersecurity+%7C+SOC+%7C+Threat+Detection;HCCDA-AI+Certified+â€¢+NTI+Graduate;Building+Intelligence+for+a+Safer+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=500&color=00C9FF&center=true&vCenter=true&random=false&width=700&height=55&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;AI+in+Cybersecurity+%7C+SOC+%7C+Threat+Detection;HCCDA-AI+Certified+-+NTI+Graduate;Building+Intelligence+for+a+Safer+World" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
   <a href="https://github.com/yoyoazmy22-del">
     <img src="https://img.shields.io/github/stars/yoyoazmy22-del?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=92FE9D&labelColor=0D1117" />
   </a>
-  <a href="mailto:yousra.azmyy@gmail.com">
+  <a href="mailto:yoyo.azmy22@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://linkedin.com/in/yousra-azmy">
@@ -61,7 +61,7 @@ class AIEngineer:
     role: str = "AI & Machine Learning Engineer"
     focus: str = "AI in Cybersecurity"
     location: str = "Egypt"
-    email: str = "yousra.azmyy@gmail.com"
+    email: str = "yoyo.azmy22@gmail.com"
     languages: List[str] = field(default_factory=lambda: ["ar_EG (Native)", "en_US (Fluent)"])
     
     @property
@@ -299,30 +299,6 @@ for interest in me.interests:
 
 ---
 
-## Current Mission
-
-```ascii
-â•”â•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•—
-â•‘                                                              â•‘
-â•‘   â–ˆâ–ˆâ•—   â–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—   â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—       â•‘
-â•‘   â•ڑâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•”â•‌â–ˆâ–ˆâ•”â•گâ•گâ•گâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•گâ•گâ•گâ•گâ•‌â–ˆâ–ˆâ•”â•گâ•گâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•گâ•گâ–ˆâ–ˆâ•—      â•‘
-â•‘    â•ڑâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•‌ â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•‌â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘      â•‘
-â•‘     â•ڑâ–ˆâ–ˆâ•”â•‌  â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â•ڑâ•گâ•گâ•گâ•گâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•گâ•گâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•گâ•گâ–ˆâ–ˆâ•‘      â•‘
-â•‘      â–ˆâ–ˆâ•‘   â•ڑâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•‌â•ڑâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•‌â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘      â•‘
-â•‘      â•ڑâ•گâ•‌    â•ڑâ•گâ•گâ•گâ•گâ•گâ•‌  â•ڑâ•گâ•گâ•گâ•گâ•گâ•‌ â•ڑâ•گâ•گâ•گâ•گâ•گâ•گâ•‌â•ڑâ•گâ•‌  â•ڑâ•گâ•‌â•ڑâ•گâ•‌  â•ڑâ•گâ•‌      â•‘
-â•‘                                                              â•‘
-â•‘   B.Sc. Computer Science -- Arab Open University            â•‘
-â•‘   Huawei HCCDA-AI | NVIDIA DL | ITI AI | NTI Cyber         â•‘
-â•‘   Building AI systems that are intelligent AND secure       â•‘
-â•‘   Open to collaborations & exciting opportunities           â•‘
-â•‘   Currently: Deep Learning + Cybersecurity Intersection    â•‘
-â•‘   2026 Goal: Publish AI research & open-source tools       â•‘
-â•‘                                                              â•‘
-â•ڑâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•‌
-```
-
----
-
 ## Let's Connect & Collaborate
 
 <p align="center">
@@ -332,7 +308,7 @@ for interest in me.interests:
   <a href="https://linkedin.com/in/yousra-azmy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="mailto:yousra.azmyy@gmail.com">
+  <a href="mailto:yoyo.azmy22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="#">
@@ -347,7 +323,7 @@ for interest in me.interests:
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Open%20Source-â‌¤ï¸ڈ-red?style=flat-square&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Open%20Source-red?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Huawei%20Cloud-Developer-red?style=flat-square&logo=huawei&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Powered%20By-Curiosity-00C9FF?style=flat-square&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Quote-%22Innovation+distinguishes+between+a+leader+and+a+follower%22-blue?style=flat-square&labelColor=0D1117" />
