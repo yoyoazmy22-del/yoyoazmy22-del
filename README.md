@@ -31,7 +31,7 @@
 
 ## About
 
-Artificial Intelligence graduate specializing in Intelligence with expertise in Deep Learning, NLP, and Computer Vision. Experienced in building intelligent systems across EdTech, FinTech, and Cybersecurity domains. Completed AI in Cybersecurity training at NTI with a focus on SOC operations, threat detection, and AI-driven security solutions.
+AI graduate specializing in Deep Learning, NLP, and Computer Vision. Built intelligent systems across EdTech, FinTech, and Cybersecurity domains. Completed AI in Cybersecurity training at NTI focusing on SOC operations, threat detection, and AI-driven security solutions.
 
 ---
 
@@ -163,6 +163,14 @@ Artificial Intelligence graduate specializing in Intelligence with expertise in 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyoazmy22-del&bg_color=0D1117&color=00C9FF&line=92FE9D&point=00C9FF&area=true&hide_border=true&radius=8" width="98%" />
+</p>
+
+---
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yoyoazmy22-del&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="98%" />
 </p>
 
 ---
