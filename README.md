@@ -23,8 +23,9 @@
   <img src="https://img.shields.io/github/followers/yoyoazmy22-del?style=flat-square&logo=github&label=Followers&color=00C9FF&labelColor=0D1117" />
   <img src="https://img.shields.io/github/stars/yoyoazmy22-del?style=flat-square&logo=github&label=Stars&color=92FE9D&labelColor=0D1117" />
   <img src="https://komarev.com/ghpvc/?username=yoyoazmy22-del&style=flat-square&color=00C9FF&labelColor=0D1117&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/HCCDA--AI-Certified-FFD21E?style=flat-square&logo=huawei&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Digital%20Egypt-88%25-00C9FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-AI%2BCybersecurity-00C9FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Location-Egypt-92FE9D?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Open%20To-Work%2FCollaborate-FF6F00?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
@@ -75,7 +76,7 @@ AI graduate specializing in Deep Learning, NLP, and Computer Vision. Built intel
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Dawamy App</h3>
+      <h3><a href="https://github.com/yoyoazmy22-del/dawamy_app">Dawamy App</a></h3>
       <p><i>Shift Scheduling -- Flutter + Node.js</i></p>
       <p>Modern shift scheduling app with 3D UI, glassmorphism design, physics animations, and AI-powered optimization. RTL/Arabic support for the Egyptian market.</p>
       <p>
@@ -83,7 +84,6 @@ AI graduate specializing in Deep Learning, NLP, and Computer Vision. Built intel
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
       </p>
-      <p><a href="https://github.com/yoyoazmy22-del/dawamy_app">View on GitHub</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>AI Quiz App</h3>
@@ -153,8 +153,12 @@ AI graduate specializing in Deep Learning, NLP, and Computer Vision. Built intel
 ## GitHub Stats
 
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoyoazmy22-del&theme=tokyonight" width="98%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoyoazmy22-del&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9&border_radius=8" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoazmy22-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_radius=8" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoyoazmy22-del&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
@@ -178,6 +182,13 @@ AI graduate specializing in Deep Learning, NLP, and Computer Vision. Built intel
 <p align="center">
   <sub>yoyoazmy22-del / Yousra Mostafa Azmy -- AI & Cybersecurity Engineer</sub><br/>
   <sub>From Egypt -- Combining AI & Security for a Safer World</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:yoyo.azmy22@gmail.com">Email</a> --
+  <a href="https://linkedin.com/in/yousra-azmy">LinkedIn</a> --
+  <a href="#">Portfolio</a> --
+  <a href="#">Resume</a>
 </p>
 
 <div align="center">
