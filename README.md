@@ -137,6 +137,19 @@ AI graduate specializing in Deep Learning, NLP, and Computer Vision. Built intel
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yoyoazmy22-del/ai-sentiment-analyzer">AI Sentiment Analyzer</a></h3>
+      <p><i>NLP -- Python</i></p>
+      <p>Sentiment analysis tool using TextBlob and VADER algorithms. Analyzes text sentiment with batch processing and JSON export.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/TextBlob-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/VADER-FF6F00?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
