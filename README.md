@@ -126,7 +126,16 @@ AI graduate specializing in Deep Learning, NLP, and Computer Vision. Built intel
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras" />
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yoyoazmy22-del/text-summarizer-ai">AI Text Summarizer</a></h3>
+      <p><i>NLP -- Python</i></p>
+      <p>Text summarization tool using extractive (LexRank, LSA) and abstractive (BART) methods. Command-line interface for easy usage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface" />
+      </p>
+    </td>
   </tr>
 </table>
 
