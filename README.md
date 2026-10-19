@@ -148,7 +148,17 @@ AI graduate specializing in Deep Learning, NLP, and Computer Vision. Built intel
         <img src="https://img.shields.io/badge/VADER-FF6F00?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yoyoazmy22-del/bot-modern-gas">Modern Gas Bot</a></h3>
+      <p><i>Voice Customer Service -- Node.js + Python + Gemini</i></p>
+      <p>Egyptian-Arabic voice chatbot deployed on a natural-gas company website in place of live customer service. Answers from the company's own knowledge base (RAG) with real-time streamed text and natural Egyptian neural voices — the first sentence plays while the rest is still generating, gap-free and in order. No model training: knowledge updates take effect instantly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini" />
+        <img src="https://img.shields.io/badge/TTS-Edge%20Neural-0078D4?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 
